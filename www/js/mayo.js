@@ -7,7 +7,6 @@ $(function(){$my_thing = $("#my_thing");$gross_thing = $("#gross_thing");$your_t
 		$my_thing.text(random(MY_THINGS));
 		$gross_thing.text(random(GROSS_THINGS));
 		$your_thing.text(random(YOUR_THINGS));
-	
 	};
 	makeAnother();
 $("#mayo").click(makeAnother);

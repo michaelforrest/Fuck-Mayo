@@ -1,7 +1,11 @@
-#mayo{ cursor:pointer; width:600px; margin:0 auto; }
+#mayo{ cursor:pointer;   	line-height:40px;}
 h1{color:#663233;}
+.content {width:600px;margin:0 auto;}
 body{
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-size:200%;
-	line-height:40px;
+
+	
 }
+.social.content{margin-top:30px;}
+.social p{margin:0;margin-bottom:10px;}
